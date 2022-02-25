@@ -7,5 +7,5 @@
 Получил?|Buyer confirm receipt?
 Жду номер карты|Seller post usdt Trc20 address please ➡
 version: 0.2
-1
+0
 © FreezyCraft, 2022
