@@ -6,5 +6,5 @@
 Получил! Продавец может отправить гемы или NFT. Прошу весь процесс сделки осущесвлять ТОЛЬКО через эту группу, чтобы не нарваться на СКАМ.\n\n⚠️ Если у вас прямая отправка гемов по адресу пополнения аккаунта, прошу покупателя отправить адрес пополнения, А ПРОДАВЦА ПРЕЖДЕ ЧЕМ ОТПРАВИТЬ ГЕМЫ СНАЧАЛА УТОЧНИТЬ У ПОКУПАТЕЛЯ ВЕРНЫЙ ЛИ ЭТО АДРЕС.|⚠DO NOT DEAL PRIVATELY AND IGNORE ANY DM YOU GET ‼\n\nFunds Received✅, seller can release gems/nft to buyer.\n\nbuyer- post your gems wallet/QR/Nft listing here in the escrow group and tag seller\nseller - Do not ❗send/buy from DM .\n\n⚠If anyone even I or buyer send you address for gem/nft in DM don't do that⚠
 Получил?|Buyer confirm receipt?
 Жду номер карты|Seller post usdt Trc20 address please ➡
-version: 0.1
+version: 0.2
 © FreezyCraft, 2022
