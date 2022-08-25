@@ -1,0 +1,4 @@
+{
+  "bts":{"b1":"name1", "b2":"name2", "b3":"name3", "b4":"name4", "b5":"name5", "b6":"name6"},
+  "txts":{"t1":"Welcome1", "t2":"Welcome2", "t3":"Welcome3", "t4":"Welcome4", "t5":"Welcome5", "t6":"Welcome6"}
+}
