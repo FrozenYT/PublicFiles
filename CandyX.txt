@@ -1,7 +1,7 @@
 {
-  "bts":{"b1":"name1", "b2":"name2", "b3":"name3", "b4":"name4", "b5":"name5", "b6":"name6", "menu":"name7"},
+  "bts":{"b1":"Профиль", "b2":"Игры", "b3":"Пополнение", "b4":"Rush", "b5":"Скоро", "b6":"name6", "menu":"Назад в меню"},
   "btscolor":{"b1":"VkKeyboardColor.PRIMARY", "b2":"VkKeyboardColor.POSITIVE", "b3":"VkKeyboardColor.NEGATIVE", "b4":"VkKeyboardColor.PRIMARY", "b5":"VkKeyboardColor.PRIMARY", "b6":"VkKeyboardColor.PRIMARY", "menu":"VkKeyboardColor.PRIMARY"},
-  "txts":{"prereg":"Welcome0", "reg":"Welcome1", "menu":"Welcome2", "games":"Welcome3", "t4":"Welcome4", "t5":"Welcome5", "t6":"Welcome6", "error1": "ER1"},
+  "txts":{"prereg":"Welcome0", "reg":"Welcome1", "menu":"Ваш Профиль:\n*Профиль*", "games":"Выберите режим:", "addmoney": "AddMoney1", "confmoney": "AddMoney2", "rush": "Rush1", "confrush": "Rush2", "t5":"Welcome5", "error1": "Ошибка. Возвращаемся в меню."},
   "kbs": [[false, "b1", "b2", null, "b3"], [true, "b4", null, "b5", null, "menu"]],
   "kbsдляЛёхи": [["Изчезает после клика или Нет true/false", "Название из bts. например 'b1' ", "Или пропуск. Пропуск(переход на новую строку это текст null) Пример дальше: "], [false, "b1", "b2", null, "b3"]]
 }
